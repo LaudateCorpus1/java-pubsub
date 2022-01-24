@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.115.2](https://github.com/googleapis/java-pubsub/compare/v1.115.1...v1.115.2) (2022-01-24)
+
+
+### Dependencies
+
+* update dependency com.google.protobuf:protobuf-java-util to v3.19.3 ([#973](https://github.com/googleapis/java-pubsub/issues/973)) ([13a9f96](https://github.com/googleapis/java-pubsub/commit/13a9f9645661324cc26b23b9eca5d833bf9d089f))
+
 ### [1.115.1](https://www.github.com/googleapis/java-pubsub/compare/v1.115.0...v1.115.1) (2022-01-07)
 
 
